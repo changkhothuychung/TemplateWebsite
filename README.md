@@ -4,13 +4,13 @@
   
   $ git clone https://github.com/NhatNguyen1810/TemplateWebsite <name> 
 
-- Creating a new branch <name>: 
+- Creating a new branch -name-: 
   
-  $ git branch <name>
+  $ git branch -name-
  
 - Switch to your working branch: 
 
-  $ git checkout <name>
+  $ git checkout -name-
 
 - Check the status of your branch: 
 
@@ -18,7 +18,7 @@
   
 - Committing your changes: 
   
-  $ git commit -m "<your comment>"
+  $ git commit -m "-your comment-"
   
  
 
